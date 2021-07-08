@@ -13,3 +13,10 @@ Python Code :
 5-Prime Number Detection with and without functions
 
 6-YouTube video downloader using Pytube
+
+
+LetsUpgrade Python for Begineers-Final Project Submission
+
+Python Code :
+
+Weather Forecasting using OWM API
